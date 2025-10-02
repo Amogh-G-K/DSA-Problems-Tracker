@@ -5,7 +5,7 @@ import process from 'process';
 
 // https://vitejs.dev/config/
 export default defineConfig(() => ({
-  base: '/DSA-Problems-Tracker/',
+  base: '/',
   server: {
     host: "::",
     port: 8080,
