@@ -9,6 +9,11 @@ on:
         required: true
         default: 'master'
 
+permissions:
+  id-token: write
+  contents: write
+  pages: write
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
