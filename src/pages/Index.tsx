@@ -42,7 +42,7 @@ const Index = () => {
             </h1>
           </div>
           <p className="text-muted-foreground text-lg">
-            Track / Revise problems ... level-up!
+            To help practice and organize solutions for Data Structures and Algorithms
           </p>
           <div className="mt-4 flex items-center justify-center gap-3">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent border border-border">
