@@ -2,7 +2,8 @@
 
 ## Project Description
 
-*(Replace this section with a brief, customized description of what your application does. E.g., "This is a full-stack web application designed to track tasks and manage team deadlines.")*
+A simple DSA Problems Tracker to help practice and organize solutions for Data Structures and Algorithms.
+Built with a clean UI for tracking progress and improving problem-solving skills.
 
 ---
 
@@ -55,8 +56,6 @@ This project is built with modern web technologies:
 
 ## Deployment
 
-*(Customize this section with instructions for how you plan to deploy your project, e.g., using Vercel, Netlify, or AWS.)*
-
 This project can be easily built for production and deployed to any modern static hosting service:
 
 1.  **Build the project:**
@@ -64,9 +63,3 @@ This project can be easily built for production and deployed to any modern stati
     npm run build
     ```
 2.  The compiled files will be located in the `dist` directory. Upload the contents of this directory to your hosting provider.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
